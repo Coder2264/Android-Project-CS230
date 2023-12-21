@@ -1,0 +1,1 @@
+{"className":"com.example.makeitso.screens.settings.SettingsViewModel_HiltModules$KeyModule","classAnnotations":["dagger.Module","dagger.hilt.InstallIn"],"interfaces":[],"superClasses":["java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"com.example.makeitso.DaggerMakeItSoHiltApp_HiltComponents_SingletonC$ActivityCBuilder","classAnnotations":[],"interfaces":["com.example.makeitso.MakeItSoHiltApp_HiltComponents$ActivityC$Builder","dagger.hilt.android.internal.builders.ActivityComponentBuilder"],"superClasses":["java.lang.Object"]}

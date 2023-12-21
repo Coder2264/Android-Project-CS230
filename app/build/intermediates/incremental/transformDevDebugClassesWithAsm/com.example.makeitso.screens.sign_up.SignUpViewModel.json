@@ -1,0 +1,1 @@
+{"className":"com.example.makeitso.screens.sign_up.SignUpViewModel","classAnnotations":["dagger.hilt.android.lifecycle.HiltViewModel","androidx.compose.runtime.internal.StabilityInferred"],"interfaces":[],"superClasses":["com.example.makeitso.screens.MakeItSoViewModel","androidx.lifecycle.ViewModel","java.lang.Object"]}

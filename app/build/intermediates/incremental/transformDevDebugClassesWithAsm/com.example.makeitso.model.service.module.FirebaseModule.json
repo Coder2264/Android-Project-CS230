@@ -1,0 +1,1 @@
+{"className":"com.example.makeitso.model.service.module.FirebaseModule","classAnnotations":["dagger.Module","dagger.hilt.InstallIn","androidx.compose.runtime.internal.StabilityInferred"],"interfaces":[],"superClasses":["java.lang.Object"]}
